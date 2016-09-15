@@ -1,3 +1,4 @@
 Jiachen Shi
-Lab4
+Lab
 Name: Jiachen Shi
+Partner: Yogitha
